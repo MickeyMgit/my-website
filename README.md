@@ -7,4 +7,4 @@
 - style.css ：見た目の設定
 
 ## 公開URL
-（第７回で記入します）
+https://mickeymgit.github.io/my-website/
